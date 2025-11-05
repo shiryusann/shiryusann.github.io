@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : Zilong.png
-  name             : "Your Sidebar Name"
+  name             : "Zilong Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : # "Earth"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zilong.li@colorado.edu" 
 
   # Academic websites
   academia         : # URL
