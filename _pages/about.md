@@ -23,7 +23,7 @@ Research Interest
 
 Research Experience
 =======
-Student researcher in NSF National AI Institute for Student-AI Teaming at University of colorado, Boulder, July 2024 - July 2025
+Student researcher, in NSF National AI Institute for Student-AI Teaming at University of colorado, Boulder, July 2024 - July 2025
 
 Publication
 =======
