@@ -27,5 +27,5 @@ Student researcher in NSF National AI Institute for Student-AI Teaming at Univer
 
 Publication
 =======
-1. [under review](https://drive.google.com/file/d/1Qo48v7n9gueUIYkaJGccD_qeO8lE6yaw/view?usp=sharing) **Li, Z**., **Cao, J**, Translation via Annotation: A Computational Study of Translating Classical Chinese into Japanese.
-2. 
+1. [/[under review/]](https://drive.google.com/file/d/1Qo48v7n9gueUIYkaJGccD_qeO8lE6yaw/view?usp=sharing) **Li, Z.**, Cao, J, Translation via Annotation: A Computational Study of Translating Classical Chinese into Japanese.
+2. Ge, S., **Li, Z.**, Chen, A., and Wang, G. 2024. Annotate Chinese Aspect with UMR——a Case Study on the Liitle Prince. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 1161–1172, Torino, Italia. ELRA and ICCL.
