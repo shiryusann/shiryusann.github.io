@@ -27,3 +27,5 @@ Student researcher in NSF National AI Institute for Student-AI Teaming at Univer
 
 Publication
 =======
+1. [under review](https://drive.google.com/file/d/1Qo48v7n9gueUIYkaJGccD_qeO8lE6yaw/view?usp=sharing) **Li, Z**., **Cao, J**, Translation via Annotation: A Computational Study of Translating Classical Chinese into Japanese.
+2. 
