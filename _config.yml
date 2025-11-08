@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Zilong Li/Personal Website"
+title                    : "Zilong Li / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -219,16 +219,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: False
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: False
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: False
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: False
     permalink: /:collection/:path/
 
 
